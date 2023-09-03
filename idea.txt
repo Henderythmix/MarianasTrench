@@ -1,0 +1,19 @@
+Similar to the “Oregon Trail”-esque games we thought of, we can make one like this.
+you are a researcher going deeper to explore underwater in a submarine. 
+The deeper you go, the less stable your experience is, so you need to return to the surface to upgrade your submarine so you can go deeper.
+You will encounter random events that can hinder, or improve your experience.
+You are rewarded money based on the “research” you discover, and how deep you can go.
+
+Must Have:
+- Underwater Events
+- Upgrade Shop
+- Rewarding System
+
+Should Have:
+- Title screen
+- Saving and loading
+- Hiring Researchers
+- Quests?
+
+Could Have:
+- Achievements
